@@ -116,6 +116,11 @@
           "name": "Laura Laugwitz",
           "phone": "",
           "email": "laura@railsgirlsberlin.de"
+        },
+        {
+          "name": "Thuy Le",
+          "phone": "",
+          "email": "thuy@railsgirlsberlin.de"
         }
       ]
     },
@@ -348,7 +353,11 @@
         },
         {
           "name": "Abe Pazos",
+<<<<<<< HEAD
           "email": "hamoid@gmail.com",
+=======
+          "email": "abe@hamoid.com",
+>>>>>>> initial commit
           "twitter": "hamoid"
         },
         {
